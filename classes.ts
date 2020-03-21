@@ -25,4 +25,4 @@ Student {
 }
 */
 
-console.log(greeter(user)); // Hello, Jane User
+document.getElementById('main').innerHTML =  greeter(user); // Hello, Jane User
