@@ -44,3 +44,5 @@ With TypeScript, we can check and assign variables, parameter and function types
 
 # Installation
 For node user: `npm install -g typescript`
+
+Watch: `tsc <typescriptFile.ts> -w`
